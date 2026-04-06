@@ -1,0 +1,55 @@
+.photo{
+    width: 150px;
+    height: 150PX;
+    border-radius: 50%;
+    border: 3PX #2c7da0;
+    background-color: gray;
+
+ }   
+
+
+
+body {
+    font-family: Arial;
+    background-color:#ffffff;
+
+
+} 
+.container {
+    background: white;
+    padding:15PX;
+    width: 60%;
+    
+}
+
+h1 {
+  text-align: center;
+  font-size:50PX;
+  color:#1e4661;
+  margin-bottom: 8PX;
+
+ }
+ h3{
+    text-align: center;
+    font-size: 30PX;
+}
+
+ 
+h2{
+    color: #1e466e;
+    font-size: 39PX;
+    margin: 35PX;
+    align-items: center;
+
+}
+li {
+    font-size: 30PX;
+  }
+hr {
+    border: 1PX solid #000
+}
+
+ 
+
+
+
